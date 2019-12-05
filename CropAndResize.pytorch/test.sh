@@ -1,0 +1,1 @@
+python tests/crop_and_resize_example.py
